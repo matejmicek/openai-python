@@ -10,3 +10,6 @@ build
 .vscode/launch.json
 examples/azure/training.jsonl
 examples/azure/validation.jsonl
+examples/finetuning/.DS_Store
+examples/.DS_Store
+.DS_Store
